@@ -1,0 +1,1 @@
+streamlit selenium webdriver-manager beautifulsoup4
